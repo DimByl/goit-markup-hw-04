@@ -132,6 +132,7 @@ body {
 
 .offer-section {
   background: var(--background-color);
+  background: image:url("");
   padding-top: 200px;
   padding-bottom: 200px;
 }
