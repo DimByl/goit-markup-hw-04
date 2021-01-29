@@ -349,7 +349,7 @@ body {
 .social-list-icon {
   width: 20px;
   height: 20px;
-  fill: aqua;
+  fill: #afb1b8;
 }
 .social-list-link:hover .social-list-icon,
 .social-list-link:focus .social-list-icon {
