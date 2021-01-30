@@ -389,6 +389,7 @@ body {
   padding-bottom: 60px;
 }
 .footer-logotype {
+  display: inline-block;
   font-family: Raleway;
   font-weight: bold;
   font-size: 26px;
